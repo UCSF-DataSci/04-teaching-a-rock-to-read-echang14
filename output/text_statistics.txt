@@ -1,0 +1,15 @@
+Section 1 Statistics:
+vocab_richness: 0.44786196549137286
+avg_sentence_length: 15.869047619047619
+avg_word_length: 4.36834208552138
+
+Section 2 Statistics:
+vocab_richness: 0.3870967741935484
+avg_sentence_length: 16.06024096385542
+avg_word_length: 4.0105026256564145
+
+Section 3 Statistics:
+vocab_richness: 0.39280359820089955
+avg_sentence_length: 13.207920792079207
+avg_word_length: 4.084707646176912
+
